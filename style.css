@@ -1,0 +1,25 @@
+body{
+    padding: 50px;
+    background-image:url(https://t4.ftcdn.net/jpg/02/09/70/83/360_F_209708389_7x5VUlyliuc3l27kHlgVFB3tE0TXKvTI.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.class1
+{
+    max-width: 600px;
+    margin-left: 800px;
+    margin-top: 75px;
+    padding: 50px;
+    box-shadow: lightgrey;
+}
+.form
+{
+    margin-bottom: 30px;
+}
+.class2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 125px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
